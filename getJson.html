@@ -39,7 +39,7 @@
             //     });
             // });
             $("button").click(function () {
-                $.getJSON("http://lm.somee.com/test/db.json", function (obj) {
+                $.getJSON("https://lm.somee.com/test/db.json", function (obj) {
                     $.each(obj, function (key, value) {
                         $("ul").append("<li>" + value.agency + "</li>");
                     });
