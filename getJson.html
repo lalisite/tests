@@ -39,7 +39,7 @@
             //     });
             // });
             $("button").click(function () {
-                $.getJSON("https://lm.somee.com/db/db.json", function (obj) {
+                $.getJSON("https://lalisite.github.io/db/db.json", function (obj) {
                     $.each(obj, function (key, value) {
                         $("ul").append("<li>" + value.agency + "</li>");
                     });
