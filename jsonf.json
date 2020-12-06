@@ -1,0 +1,17 @@
+[
+  {
+    name:lm,
+    pid:123456789,
+    ybirth:1980
+  },
+  {
+    name:jiji,
+    pid:456321789,
+    ybirth:1990
+  },
+  {
+    name:kik,
+    pid:987654321,
+    ybirth:1985
+  }
+]
