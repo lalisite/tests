@@ -2,16 +2,28 @@
   {
     "name":"viki",
     "pid":123056789,
-    "ybirth":1980
+    "ybirth":1980,
+    "family":{
+          "partner":["ee"],
+          "children":["ashaheli"]
+        }
   },
   {
     "name":"juli",
     "pid":456325289,
-    "ybirth":1990
+    "ybirth":1990,
+    "family":{
+          "partner":["www"],
+          "children":[]
+        }
   },
   {
     "name":"koko",
     "pid":9876500321,
-    "ybirth":1985
+    "ybirth":1985,
+    "family":{
+          "partner":[],
+          "children":[]
+        }
   }
 ]
