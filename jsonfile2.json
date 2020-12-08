@@ -4,7 +4,7 @@
     "pid":123056789,
     "ybirth":1980,
     "family":{
-          "partner":["ee"],
+          "partner":["ee","ttt"],
           "children":["ashaheli"]
         }
   },
@@ -13,7 +13,7 @@
     "pid":456325289,
     "ybirth":1990,
     "family":{
-          "partner":["www"],
+          "partner":["www","bb","cc"],
           "children":[]
         }
   },
