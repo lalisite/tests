@@ -2,16 +2,37 @@
   {
     "name":"lm",
     "pid":123456789,
-    "ybirth":1980
+    "ybirth":1980,
+    "family":{
+          "partner":["shraya"],
+          "children":["yohav","avishai","ashahel"]
+        }
   },
   {
     "name":"jiji",
     "pid":456321789,
-    "ybirth":1990
+    "ybirth":1990,
+    "family":{
+          "partner":["yuli"],
+          "children":["zzz"]
+        }
   },
   {
     "name":"kik",
     "pid":987654321,
-    "ybirth":1985
+    "ybirth":1985,
+    "family":{
+          "partner":["ttt"],
+          "children":[]
+        }
+  },
+  {
+    "name":"nnn",
+    "pid":987654321,
+    "ybirth":1985,
+    "family":{
+          "partner":[],
+          "children":["cc"]
+        }
   }
 ]
