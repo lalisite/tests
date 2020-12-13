@@ -1,5 +1,5 @@
 <%
-response.expires=-1
+
 dim a(30)
 'Fill up array with names
 a(1)="Anna"
